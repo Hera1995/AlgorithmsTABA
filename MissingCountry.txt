@@ -1,0 +1,2 @@
+Customer [ID: 9, first name: Jo-ann, last name: Ragles, country: , email: jragles8@spiegel.de]
+Customer [ID: 15, first name: Arline, last name: Serfati, country: , email: aserfatie@blogs.com]

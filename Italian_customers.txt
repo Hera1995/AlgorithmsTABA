@@ -1,0 +1,1 @@
+Customer [ID: 6, first name: Sib, last name: Semiras, country: Italy, email: ssemiras5@admin.ch]
